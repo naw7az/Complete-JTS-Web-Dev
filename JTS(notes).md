@@ -6,7 +6,7 @@ Encription is a way to hide/jumble a piece of text which is impossible to read b
 1. Symmetrical Encryption
 Uses 1 secret key for both encrytion(E) and decrytion(D).The secret key is exchanged between client and host using key exchange algorithm. The key is generated for each of the SSH session.
 
-`"Hello" -> Key112(E) -> "E11-32ds" -> Key112(D) -> "Hello"`
+"Hello" -> Key112(E) -> "E11-32ds" -> Key112(D) -> "Hello"
 
 2. Asymmetrical Encription
 Uses two separate keys for encryption and decryption.
