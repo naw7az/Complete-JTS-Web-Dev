@@ -103,4 +103,4 @@ Script file can alter the DOM and the CSSOM, hence JS file in CRP is called Pars
 With async, the file gets downloaded asynchronously and then executed as soon as it’s downloaded.
 With defer, the file gets downloaded asynchronously, but executed only when the document parsing is completed. With defer, scripts will execute in the same order as they are called. 
 
-More on [<script async> vs <script defer>](https://bitsofco.de/async-vs-defer/)
+More on [<script async> vs <script defer>](https://bitsofco.de/async-vs-defer/){:target="_blank"}
